@@ -192,12 +192,6 @@ With using Intel Extension for Tensorflow:
 
 
 
-## Contributors:
-
-- [@navabhaarathi](https://github.com/nb0309)
-- [@balasuriya](https://github.com/balasuriyaranganathan/balasuriyaranganathan)
-
-
 ## Acknowledgements
 
  - [Computer Network Intrusion and anomaly detection](https://www.hindawi.com/journals/misy/2022/6576023/)
